@@ -1,7 +1,7 @@
 defmodule RedixPool.Mixfile do
   use Mix.Project
 
-  @version "0.2.0"
+  @version "0.3.0"
   @description "Simple Redis pooling built on redix and poolboy"
   @github_url "https://github.com/opendoor-labs/redix_pool"
 
